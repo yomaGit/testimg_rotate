@@ -1,3 +1,4 @@
+# 上传后图片旋转修正
 
 ### 插件exif.js
 github(https://github.com/exif-js/exif-js)
